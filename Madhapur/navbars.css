@@ -1,0 +1,23 @@
+html{
+    overflow-x: hidden;
+}
+
+
+
+.list-group-item{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    
+}
+
+.col-lg-3 img{
+    width: 170px;
+    height: 170px;
+}
+
+
+
+.main-color{
+    background-color: rgba(33,106,34,1)!important;
+}
+
